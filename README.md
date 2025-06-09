@@ -1,6 +1,4 @@
-Here is a professional and clear `README.md` file for your Transformer-based regression project, written in English and suitable for a GitHub repository:
 
----
 
 # 🎵 Transformer-Based Music Popularity Prediction
 
